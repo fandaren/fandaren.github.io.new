@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://fandaren.github.io/sitemap.xml
